@@ -1,0 +1,179 @@
+{
+  "title": "Plan your Webinar",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "C. Do",
+      "id": 29,
+      "ideas": {
+        "1": {
+          "title": "C1. Conduct your webinar and record it",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "C1a. Make a recording of your webinar available, for those who would like to revisit some of the discussion, or those who could not make it, are able to listen to what was said in their own time.",
+              "id": 22
+            },
+            "2": {
+              "title": "C1b. Link your webinar to an  online marketing campaign, use the recording in any e-mails that you send out, reinforcing your message.",
+              "id": 23
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "C2. Plan your presentation",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "C2a. best online meeting presentations are highly visual and engaging, include pictures that are relevant to what's being presented, use video, or online games and if needed send material to participants ahead of the meeting",
+              "id": 21
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "C3. conduct a few practice webinars",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "C3a. Knowing how to switch between speakers, taking a poll or recording the webinar",
+              "id": 18
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "20": {
+      "title": "D. Followup",
+      "id": 30,
+      "ideas": {
+        "1": {
+          "title": "D1. Followup with your audience and collect feedback",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": " D1a. Following-up on a webinar is extremely important. Remind what was discussed, and conduct a survey to gather their thoughts on how the webinar went.",
+              "id": 24
+            },
+            "2": {
+              "title": "D1b. If you are planning another webinar that could be of interest to your audience, make sure to let them know when they can expect an invitation.",
+              "id": 25
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "D2. Review the feedback from your audience",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "D2a.  Always be sure to review any feedback that you have received on your webinars. This is how you can improve your next ones. ",
+              "id": 26
+            },
+            "2": {
+              "title": "D2b. Pay particular attention to the feedback relating to the presentation, as that makes up the core of the webinar",
+              "id": 27
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "B.   Plan",
+      "id": 28,
+      "ideas": {
+        "16": {
+          "title": "B1. develop an program playbook, agenda, invitation",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Think about how long your webinar will last,  the main items that you want to discuss in the order you would like to discuss them, Q&A Discussion, Link to connect to the webinar, audio bridge, pre/post reference material, poll, survey, feedback, blog/forum, services offered, etc.",
+              "id": 19
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "26": {
+          "title": "B2. send the invitations",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Think carefully about what you want to present, and choose your audience accordingly and closely monitor the attendee list ",
+              "id": 20
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "A. Prep",
+      "id": 31,
+      "ideas": {
+        "1": {
+          "title": "A1. Choose a date",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Consider Audience time-zone, location (home/office) focus area, attention span, etc.",
+              "id": 5
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "A2. Choose a webinar tool",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Screen Sharing, WhiteBoard, Webinar Recording, Audio Bridge, Mute & Moderation, etc",
+              "id": 17
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}

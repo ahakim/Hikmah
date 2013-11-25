@@ -55,6 +55,16 @@
               "background": "#E0E0E0"
             }
           }
+        },
+        "4": {
+          "title": "C4. send the invitations",
+          "id": 11,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
         }
       }
     },
@@ -72,7 +82,12 @@
             },
             "2": {
               "title": "D1b. If you are planning another webinar that could be of interest to your audience, make sure to let them know when they can expect an invitation.",
-              "id": 25
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             }
           },
           "attr": {
@@ -112,22 +127,83 @@
           "ideas": {
             "1": {
               "title": "Think about how long your webinar will last,  the main items that you want to discuss in the order you would like to discuss them, Q&A Discussion, Link to connect to the webinar, audio bridge, pre/post reference material, poll, survey, feedback, blog/forum, services offered, etc.",
-              "id": 19
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#E0E0E0"
-            }
-          }
-        },
-        "26": {
-          "title": "B2. send the invitations",
-          "id": 11,
-          "ideas": {
-            "1": {
-              "title": "Think carefully about what you want to present, and choose your audience accordingly and closely monitor the attendee list ",
-              "id": 20
+              "id": 19,
+              "ideas": {
+                "1": {
+                  "title": "Topic",
+                  "id": "34.gd38ce945877db421a",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Audience deifintion",
+                  "id": "35.gd38ce945877db421a",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Webinar Agenda Outline and link to details / slideshow",
+                  "id": "37.gd38ce945877db421a",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Plan Invitations",
+                  "id": "38.gd38ce945877db421a",
+                  "ideas": {
+                    "1": {
+                      "title": "Think carefully about what you want to present, and choose your audience accordingly and closely monitor the attendee list ",
+                      "id": 20,
+                      "attr": {
+                        "style": {
+                          "background": "#ffcc99"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Create the Online buz and incentives",
+                      "id": "39.gd38ce945877db421a",
+                      "ideas": {
+                        "1": {
+                          "title": "Website",
+                          "id": "40.gd38ce945877db421a"
+                        },
+                        "2": {
+                          "title": "Twitter",
+                          "id": "41.gd38ce945877db421a"
+                        },
+                        "3": {
+                          "title": "FaceBook",
+                          "id": "42.gd38ce945877db421a"
+                        },
+                        "4": {
+                          "title": "Google+",
+                          "id": "43.gd38ce945877db421a"
+                        },
+                        "5": {
+                          "title": "Email campaign",
+                          "id": "44.gd38ce945877db421a"
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -148,7 +224,18 @@
           "ideas": {
             "1": {
               "title": "Consider Audience time-zone, location (home/office) focus area, attention span, etc.",
-              "id": 5
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "Insert Dates here ",
+                  "id": "32.gd38ce945877db421a",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -163,7 +250,18 @@
           "ideas": {
             "1": {
               "title": "Screen Sharing, WhiteBoard, Webinar Recording, Audio Bridge, Mute & Moderation, etc",
-              "id": 17
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Tool is tbd; in ther interim we'll use join.me",
+                  "id": "33.gd38ce945877db421a",
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
